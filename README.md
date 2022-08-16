@@ -1,4 +1,4 @@
-# Java-Spring-Boot-Projects
+# Java-Spring-Boot-Projects 💻
 
 I did these projects while learning the Spring Boot Java framework.
 
