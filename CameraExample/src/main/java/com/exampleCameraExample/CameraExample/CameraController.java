@@ -16,7 +16,7 @@ public class CameraController {
 		 camera.add(new Camera(1, "CPI", "IMG001"));
 		 camera.add(new Camera(2, "SimpliSafe", "IMG002"));
 		 camera.add(new Camera(3, "ADT", "IMG003"));
-		 camera.add(new Camera(4, "Vivant", "IMG004"));
+		 camera.add(new Camera(4, "Vivint", "IMG004"));
 	  }
 	 
 	  @RequestMapping(value = "/getCameras")
